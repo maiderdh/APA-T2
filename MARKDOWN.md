@@ -107,3 +107,5 @@ referencia la legibilidad del fichero original en modo texto, las incompatibilid
 en situaciones demasiado desastrosas. Entre los flavours más importantes para nosotros cabe destacar el
 [Markdown de GitHub](https://guides.github.com/features/mastering-markdown/) o el
 [Markdown de Doxygen](http://www.doxygen.nl/manual/markdown.html).
+## captura resultados
+![Texto alternativo](captura_resultados.png)
